@@ -1,3 +1,7 @@
+/*
+    Equipo: Sebastian Vizcarra Salas & Azul Rodriguez Ruiz
+    2AmPr ISSI
+*/
 *{
     padding: 0;
     margin: 0;
@@ -244,4 +248,13 @@ color: var(--main-color);
     text-align: center;
     margin-top: 20%;
     width: 100%;
+}
+
+.footcent {
+    text-align: center;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
 }
